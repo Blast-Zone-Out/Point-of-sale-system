@@ -1,0 +1,113 @@
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\bin\Debug\POS Automated.exe.config
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\bin\Debug\POS Automated.exe
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\bin\Debug\POS Automated.pdb
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\bin\Debug\POS Automated.xml
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\obj\Debug\POS_Automated.Resources.resources
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\obj\Debug\POS Automated.vbproj.GenerateResource.Cache
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\obj\Debug\POS Automated.exe
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\obj\Debug\POS Automated.xml
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\obj\Debug\POS Automated.pdb
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\obj\Debug\POS_Automated.AddItem.resources
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\obj\Debug\POS_Automated.ChangePassword.resources
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\obj\Debug\POS_Automated.EditItem.resources
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\obj\Debug\POS_Automated.MainWindow.resources
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\obj\Debug\POS_Automated.PasswordPicker.resources
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\obj\Debug\POS Automated.vbproj.GenerateResource.Cache
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\obj\Debug\POS.AboutUs.resources
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\obj\Debug\POS.AddItem.resources
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\obj\Debug\POS.ChangePassword.resources
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\obj\Debug\POS.EditItem.resources
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\obj\Debug\POS.MainWindow.resources
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\obj\Debug\POS.Resources.resources
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\obj\Debug\POS.PasswordPicker.resources
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\bin\Debug\POS.exe.config
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\bin\Debug\POS.exe
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\bin\Debug\POS.pdb
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\bin\Debug\POS.xml
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\obj\Debug\POS.exe
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\obj\Debug\POS.xml
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\obj\Debug\POS.pdb
+C:\Users\peter\Desktop\Point of Sale System\POS Automated\bin\Debug\POS.exe.config
+C:\Users\peter\Desktop\Point of Sale System\POS Automated\bin\Debug\POS.exe
+C:\Users\peter\Desktop\Point of Sale System\POS Automated\bin\Debug\POS.pdb
+C:\Users\peter\Desktop\Point of Sale System\POS Automated\bin\Debug\POS.xml
+C:\Users\peter\Desktop\Point of Sale System\POS Automated\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\peter\Desktop\Point of Sale System\POS Automated\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\peter\Desktop\Point of Sale System\POS Automated\obj\Debug\POS Automated.vbprojAssemblyReference.cache
+C:\Users\peter\Desktop\Point of Sale System\POS Automated\obj\Debug\POS.AboutUs.resources
+C:\Users\peter\Desktop\Point of Sale System\POS Automated\obj\Debug\POS.AddItem.resources
+C:\Users\peter\Desktop\Point of Sale System\POS Automated\obj\Debug\POS.ChangePassword.resources
+C:\Users\peter\Desktop\Point of Sale System\POS Automated\obj\Debug\POS.EditItem.resources
+C:\Users\peter\Desktop\Point of Sale System\POS Automated\obj\Debug\POS.MainWindow.resources
+C:\Users\peter\Desktop\Point of Sale System\POS Automated\obj\Debug\POS.Resources.resources
+C:\Users\peter\Desktop\Point of Sale System\POS Automated\obj\Debug\POS.PasswordPicker.resources
+C:\Users\peter\Desktop\Point of Sale System\POS Automated\obj\Debug\POS Automated.vbproj.GenerateResource.cache
+C:\Users\peter\Desktop\Point of Sale System\POS Automated\obj\Debug\POS Automated.vbproj.CoreCompileInputs.cache
+C:\Users\peter\Desktop\Point of Sale System\POS Automated\obj\Debug\POS Automated.vbproj.CopyComplete
+C:\Users\peter\Desktop\Point of Sale System\POS Automated\obj\Debug\POS.exe
+C:\Users\peter\Desktop\Point of Sale System\POS Automated\obj\Debug\POS.xml
+C:\Users\peter\Desktop\Point of Sale System\POS Automated\obj\Debug\POS.pdb
+C:\Users\Carl Darryl.DAWEEB\Desktop\stolen pos\Point of Sale System\POS Automated\bin\Debug\POS.exe.config
+C:\Users\Carl Darryl.DAWEEB\Desktop\stolen pos\Point of Sale System\POS Automated\bin\Debug\POS.exe
+C:\Users\Carl Darryl.DAWEEB\Desktop\stolen pos\Point of Sale System\POS Automated\bin\Debug\POS.pdb
+C:\Users\Carl Darryl.DAWEEB\Desktop\stolen pos\Point of Sale System\POS Automated\bin\Debug\POS.xml
+C:\Users\Carl Darryl.DAWEEB\Desktop\stolen pos\Point of Sale System\POS Automated\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Carl Darryl.DAWEEB\Desktop\stolen pos\Point of Sale System\POS Automated\obj\Debug\POS Automated.vbprojAssemblyReference.cache
+C:\Users\Carl Darryl.DAWEEB\Desktop\stolen pos\Point of Sale System\POS Automated\obj\Debug\POS.AddItem.resources
+C:\Users\Carl Darryl.DAWEEB\Desktop\stolen pos\Point of Sale System\POS Automated\obj\Debug\POS.ChangePassword.resources
+C:\Users\Carl Darryl.DAWEEB\Desktop\stolen pos\Point of Sale System\POS Automated\obj\Debug\POS.EditItem.resources
+C:\Users\Carl Darryl.DAWEEB\Desktop\stolen pos\Point of Sale System\POS Automated\obj\Debug\POS.MainWindow.resources
+C:\Users\Carl Darryl.DAWEEB\Desktop\stolen pos\Point of Sale System\POS Automated\obj\Debug\POS.Resources.resources
+C:\Users\Carl Darryl.DAWEEB\Desktop\stolen pos\Point of Sale System\POS Automated\obj\Debug\POS.PasswordPicker.resources
+C:\Users\Carl Darryl.DAWEEB\Desktop\stolen pos\Point of Sale System\POS Automated\obj\Debug\POS Automated.vbproj.GenerateResource.cache
+C:\Users\Carl Darryl.DAWEEB\Desktop\stolen pos\Point of Sale System\POS Automated\obj\Debug\POS Automated.vbproj.CoreCompileInputs.cache
+C:\Users\Carl Darryl.DAWEEB\Desktop\stolen pos\Point of Sale System\POS Automated\obj\Debug\POS Automated.vbproj.CopyComplete
+C:\Users\Carl Darryl.DAWEEB\Desktop\stolen pos\Point of Sale System\POS Automated\obj\Debug\POS.exe
+C:\Users\Carl Darryl.DAWEEB\Desktop\stolen pos\Point of Sale System\POS Automated\obj\Debug\POS.xml
+C:\Users\Carl Darryl.DAWEEB\Desktop\stolen pos\Point of Sale System\POS Automated\obj\Debug\POS.pdb
+C:\Users\Carl Darryl.DAWEEB\Desktop\stolen pos\Point of Sale System\POS Automated\obj\Debug\POS.ForgotPassword.resources
+C:\Users\Joven\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\bin\Debug\POS.exe.config
+C:\Users\Joven\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\bin\Debug\POS.exe
+C:\Users\Joven\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\bin\Debug\POS.pdb
+C:\Users\Joven\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\bin\Debug\POS.xml
+C:\Users\Joven\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Joven\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Joven\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS Automated.vbprojAssemblyReference.cache
+C:\Users\Joven\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.AddItem.resources
+C:\Users\Joven\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.ChangePassword.resources
+C:\Users\Joven\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.EditItem.resources
+C:\Users\Joven\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.ForgotPassword.resources
+C:\Users\Joven\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.MainWindow.resources
+C:\Users\Joven\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.Resources.resources
+C:\Users\Joven\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.PasswordPicker.resources
+C:\Users\Joven\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS Automated.vbproj.GenerateResource.cache
+C:\Users\Joven\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS Automated.vbproj.CoreCompileInputs.cache
+C:\Users\Joven\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS Automated.vbproj.CopyComplete
+C:\Users\Joven\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.exe
+C:\Users\Joven\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.xml
+C:\Users\Joven\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.pdb
+C:\Users\Carl Darryl.DAWEEB\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\bin\Debug\POS.exe.config
+C:\Users\Carl Darryl.DAWEEB\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\bin\Debug\POS.exe
+C:\Users\Carl Darryl.DAWEEB\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\bin\Debug\POS.pdb
+C:\Users\Carl Darryl.DAWEEB\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\bin\Debug\POS.xml
+C:\Users\Carl Darryl.DAWEEB\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Carl Darryl.DAWEEB\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS Automated.vbprojAssemblyReference.cache
+C:\Users\Carl Darryl.DAWEEB\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.AddItem.resources
+C:\Users\Carl Darryl.DAWEEB\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.ChangePassword.resources
+C:\Users\Carl Darryl.DAWEEB\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.EditItem.resources
+C:\Users\Carl Darryl.DAWEEB\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.ForgotPassword.resources
+C:\Users\Carl Darryl.DAWEEB\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.MainWindow.resources
+C:\Users\Carl Darryl.DAWEEB\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.Resources.resources
+C:\Users\Carl Darryl.DAWEEB\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.PasswordPicker.resources
+C:\Users\Carl Darryl.DAWEEB\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS Automated.vbproj.GenerateResource.cache
+C:\Users\Carl Darryl.DAWEEB\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS Automated.vbproj.CoreCompileInputs.cache
+C:\Users\Carl Darryl.DAWEEB\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS Automated.vbproj.CopyComplete
+C:\Users\Carl Darryl.DAWEEB\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.exe
+C:\Users\Carl Darryl.DAWEEB\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.xml
+C:\Users\Carl Darryl.DAWEEB\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.pdb
+C:\Users\Carl Darryl.DAWEEB\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\bin\Debug\Inventory.mdb
+C:\Users\Carl Darryl.DAWEEB\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.AddItemInv.resources
+C:\Users\Carl Darryl.DAWEEB\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.EditItemInv.resources
+C:\Users\Joven\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\bin\Debug\Inventory.mdb
+C:\Users\Joven\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.AddItemInv.resources
+C:\Users\Joven\Desktop\backup nogis tapsi pos system\Point of Sale System\POS Automated\obj\Debug\POS.EditItemInv.resources
